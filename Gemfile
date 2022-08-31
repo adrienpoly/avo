@@ -117,7 +117,7 @@ gem "httparty"
 
 gem "iso"
 
-gem "hotwire-rails"
+gem "turbo-rails"
 
 gem "active_link_to"
 
